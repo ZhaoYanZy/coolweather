@@ -7,6 +7,8 @@ import android.os.Process;
 import android.support.v7.app.AlertDialog;
 import android.widget.Toast;
 
+import com.bumptech.glide.util.Util;
+
 import java.util.ArrayList;
 import java.util.List;
 

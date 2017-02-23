@@ -3,14 +3,14 @@
     android:layout_width="match_parent"
     android:layout_height="?attr/actionBarSize">
 
-    <!--<Button-->
-        <!--android:onClick="doClick"-->
-        <!--android:layout_width="25dp"-->
-        <!--android:layout_height="25dp"-->
-        <!--android:layout_alignParentLeft="true"-->
-        <!--android:layout_centerVertical="true"-->
-        <!--android:layout_marginLeft="10dp"-->
-        <!--android:background="@drawable/ic_home" />-->
+    <Button
+        android:id="@+id/nav_button"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/ic_home" />
 
     <TextView
         android:id="@+id/title_city"
